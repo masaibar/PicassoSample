@@ -6,6 +6,9 @@ import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
 
+/**
+ * 参考：http://qiita.com/hotchemi/items/33ebd5faa42d2d05c2b6
+ */
 public class MainActivity extends AppCompatActivity {
 
     static final String IMAGE_URL = "https://sdl-stickershop.line.naver.jp/products/0/0/1/6742/android/stickers/12127494.png";
